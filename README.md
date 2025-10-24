@@ -11,7 +11,7 @@ This release provides the first complete interactive identification key (Intkey)
   - README documentation
 
 ### Requirements
-- **Intkey software** — required to run the dataset.  
+- **Intkey software** required to run the dataset.  
   Download from the official Atlas of Living Australia GitHub repository:  
   🔗 https://github.com/AtlasOfLivingAustralia/open-delta/releases  
 (Alternatively, Windows users can install Open DELTA directly using the following link:)
@@ -33,12 +33,13 @@ Future versions will include minor corrections, additional taxa, and revised ill
 
 
 Click the file Restionaceae_Intkey_v1.0_2025-10-23.zip in the repository, then click “Download raw file” to save it to your computer.
-![Illustrated step 1](illustrated images/Fig1.png)
+![Illustrated step 1](illustrated%20images/Fig1.png) 
+![Illustrated step 2](illustrated%20images/Fig2.png) 
 
 2. Extract the Files
 
 
-After downloading, extract the ZIP file to a convenient location on your computer — for example:
+After downloading, extract the ZIP file (using a program such as WinRAR)to a convenient location on your computer, Preferably to:
 
 C:\Users\<YourUserName>\Desktop, or
 
@@ -50,6 +51,8 @@ C:\Users\<YourUserName>\DELTA, or
 
 C:\DELTA
 
+![Illustrated step 3](illustrated%20images/Fig3.png) 
+
 This folder contains all the DELTA dataset files and images required to run the Intkey software.
 
 3. Open in Intkey
@@ -58,10 +61,13 @@ This folder contains all the DELTA dataset files and images required to run the 
 Launch Intkey (part of the Open DELTA software) by double-clicking the file intkey.lnk inside the DELTA folder.
 Once Intkey is open, load the dataset and begin exploring and identifying Restionaceae species interactively.
 
+![Illustrated step 4](illustrated%20images/Fig4.png)
+
 4. Understanding the Intkey Interface
 
-
 The Intkey interface consists of four distinct windows, each performing a specific function during the process of interactive identification.
+
+![Illustrated step 5](illustrated%20images/Fig5.png) 
 
 Best Characters (Top Left)
 Displays all the available diagnostic characters (for example, culm colour, fruit type, or anther length) that can be used for identification.

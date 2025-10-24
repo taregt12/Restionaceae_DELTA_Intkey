@@ -18,16 +18,6 @@ This release provides the first complete interactive identification key (Intkey)
 🔗 https://github.com/AtlasOfLivingAustralia/open-delta/files/4686518/open-delta-1.02-Installer-NOJRE.exe.zip
   - Compatible with Windows and macOS systems running Java Runtime Environment (JRE)
 
-### Citation
-If using this dataset, please cite as:
-> Shaldoom, TH, Briggs, BG, Barrett, RL & Bruhl, JJ (2025) An atlas of inflorescences, culm morphology and anatomy of Restionaceae of New South Wales (Australia). Telopea.​
-> 
-> DELTA system reference (please also cite):
-Dallwitz, M.J., Paine, T.A., and Zurcher, E.J. 1999 onwards. User’s guide to the DELTA Editor. Version: 10th September 2016. delta-intkey.com
-
-### Updates
-Future versions will include minor corrections, additional taxa, and revised illustrations. Updated versions will be provided with new version numbers and date stamps.
-
 ### How to Download and Use
 1. Download the Dataset
 
@@ -39,7 +29,7 @@ Click the file Restionaceae_Intkey_v1.0_2025-10-23.zip in the repository, then c
 2. Extract the Files
 
 
-After downloading, extract the ZIP file (using a program such as WinRAR)to a convenient location on your computer, Preferably to:
+After downloading, extract the ZIP file (using a program such as WinRAR) to a convenient location on your computer, Preferably to:
 
 C:\Users\<YourUserName>\Desktop, or
 
@@ -58,7 +48,7 @@ This folder contains all the DELTA dataset files and images required to run the 
 3. Open in Intkey
 
 
-Launch Intkey (part of the Open DELTA software) by double-clicking the file intkey.lnk inside the DELTA folder.
+Launch Intkey (part of the Open DELTA software) by double-clicking the file **intkey.lnk** inside the DELTA folder.
 Once Intkey is open, load the dataset and begin exploring and identifying Restionaceae species interactively.
 
 ![Illustrated step 4](illustrated%20images/Fig4.png)
@@ -87,3 +77,14 @@ As the user refines the identification through further scoring, non-matching spe
 
 When you click on any character, several related images may appear automatically.
 These images illustrate the corresponding character states and provide visual guidance to assist with accurate scoring and interpretation.
+
+
+### Citation
+If using this dataset, please cite as:
+> Shaldoom, TH, Briggs, BG, Barrett, RL & Bruhl, JJ (2025) An atlas of inflorescences, culm morphology and anatomy of Restionaceae of New South Wales (Australia). Telopea.​
+> 
+> DELTA system reference (please also cite):
+Dallwitz, M.J., Paine, T.A., and Zurcher, E.J. 1999 onwards. User’s guide to the DELTA Editor. Version: 10th September 2016. delta-intkey.com
+
+### Updates
+Future versions will include minor corrections, additional taxa, and revised illustrations. Updated versions will be provided with new version numbers and date stamps.

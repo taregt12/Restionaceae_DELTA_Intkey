@@ -28,6 +28,56 @@ Dallwitz, M.J., Paine, T.A., and Zurcher, E.J. 1999 onwards. User’s guide to t
 ### Updates
 Future versions will include minor corrections, additional taxa, and revised illustrations. Updated versions will be provided with new version numbers and date stamps.
 
+### How to Download and Use
+1. Download the Dataset
 
 
-​
+Click the file Restionaceae_Intkey_v1.0_2025-10-23.zip in the repository, then click “Download raw file” to save it to your computer.
+![Illustrated step 1](illustrated images/Fig1.png)
+
+2. Extract the Files
+
+
+After downloading, extract the ZIP file to a convenient location on your computer — for example:
+
+C:\Users\<YourUserName>\Desktop, or
+
+directly to C:\
+
+The extraction process will create a folder named DELTA, resulting in a directory such as:
+
+C:\Users\<YourUserName>\DELTA, or
+
+C:\DELTA
+
+This folder contains all the DELTA dataset files and images required to run the Intkey software.
+
+3. Open in Intkey
+
+
+Launch Intkey (part of the Open DELTA software) by double-clicking the file intkey.lnk inside the DELTA folder.
+Once Intkey is open, load the dataset and begin exploring and identifying Restionaceae species interactively.
+
+4. Understanding the Intkey Interface
+
+
+The Intkey interface consists of four distinct windows, each performing a specific function during the process of interactive identification.
+
+Best Characters (Top Left)
+Displays all the available diagnostic characters (for example, culm colour, fruit type, or anther length) that can be used for identification.
+When a character is selected and scored, Intkey uses that information to progressively narrow down the possible taxa.
+
+Used Characters (Bottom Left)
+Once a character has been selected and scored, it automatically moves from the Best Characters list to the Used Characters window.
+This helps the user keep track of which features have already been applied during the identification process.
+
+Remaining Taxa (Top Right)
+Shows all taxa that still match the information entered so far.
+As additional characters are scored, the number of remaining taxa decreases, leading to a more precise identification.
+
+Eliminated Taxa (Bottom Right)
+Lists the taxa that no longer match the scored characters.
+As the user refines the identification through further scoring, non-matching species are automatically moved into this section.
+
+When you click on any character, several related images may appear automatically.
+These images illustrate the corresponding character states and provide visual guidance to assist with accurate scoring and interpretation.

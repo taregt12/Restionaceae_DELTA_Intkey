@@ -77,7 +77,8 @@ As the user refines the identification through further scoring, non-matching spe
 
 When you click on any character, several related images may appear automatically.
 These images illustrate the corresponding character states and provide visual guidance to assist with accurate scoring and interpretation.
-
+![Illustrated step 6](illustrated%20images/Fig6.png) 
+![Illustrated step 7](illustrated%20images/Fig7.png) 
 
 ### Citation
 If using this dataset, please cite as:
